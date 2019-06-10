@@ -1,6 +1,7 @@
 # SwiftUI for legacy
 Duck programming to clone SwiftUI for under iOS13
 
+<br/>
 
 ## SwiftUI is cool, but..
 
@@ -8,14 +9,18 @@ SwiftUI introduced in WWDC 2019 that supports declarative ui programming with sw
 It was cool! Every iOS developers love that.<br/>
 But it works on **iOS13 above only**.
 
-So, trying clone SwiftUI for under iOS13 by duck *programming*.
-Just trying for fun and study. (Don't be serious)
-
-Not intended to fully implementation.<br/>
-Contribution always be welcomed.
+So, trying clone SwiftUI for under iOS13 by *duck programming*.<br/>
+Just trying for fun and study.
 
 > **Duck programming** <br/>
 > Developing to satisfy the present situation without perfect design.
+
+<br/>
+
+#### Don't be serious
+
+Not intended to fully implementation.<br/>
+Contribution always be welcomed.
 
 <br/>
 
