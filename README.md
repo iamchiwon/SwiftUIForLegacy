@@ -15,8 +15,6 @@ Just trying for fun and study.
 > **Duck programming** <br/>
 > Developing to satisfy the present situation without perfect design.
 
-<br/>
-
 #### Don't be serious
 
 Not intended to fully implementation.<br/>
