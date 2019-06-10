@@ -44,7 +44,11 @@ struct ContentView : View {
 }
 ```
 
-### ...
+# Installation (will be)
+
+```ruby
+pod 'SwiftUILegacy'
+```
 
 
 # License
