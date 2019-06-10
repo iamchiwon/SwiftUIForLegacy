@@ -2,7 +2,7 @@
 Duck programming to clone SwiftUI for under iOS13
 
 
-## Cool SwiftUI but..
+## SwiftUI is cool, but..
 
 SwiftUI introduced in WWDC 2019 that supports declarative ui programming with swift 5.1 on XCode11 and iOS13.<br/>
 It was cool! Every iOS developers love that.<br/>
